@@ -9,7 +9,6 @@ if(character>='a'&& character<='z'){
 }
 else if (character>='A' &&character<='Z'){
     printf("UPPERCASE");}
-    
 else {
     printf("not a valid input");
 }
